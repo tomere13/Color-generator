@@ -1,3 +1,5 @@
+Color Generator
+
 This is a simple color generator website built using ReactJS that allows you to input a hex color code and generate a set of colors with different percentages.
 
 Installation
@@ -18,4 +20,3 @@ Alternatively, you can access the deployed site at: https://unique-treacle-6bb7d
 License
 
 - This project is licensed under the MIT License - see the LICENSE.md file for details.
-  > > > > > > > de674222afa1a6b0939b79c2810f34ac22470275
