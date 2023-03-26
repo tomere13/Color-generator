@@ -23,7 +23,6 @@ function App() {
     <>
       <section className="container">
         <h3>color generator</h3>
-        <h5>Daniel</h5>
         <form className="color-form" method="submit" onSubmit={handleSubmit}>
           <input
             type="color"
