@@ -1,4 +1,5 @@
 Color Generator
+
 This is a simple color generator website built using ReactJS that allows you to input a hex color code and generate a set of colors with different percentages.
 
 Installation
